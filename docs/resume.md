@@ -29,5 +29,7 @@ Later zie ik mijzelf in een creatief bureau of web agency als front-end designer
 
 ## Contactinformatie
 **Email** | [shaujans@student.arteveldehs.be](mailto:shaujans@student.arteveldehs.be)
+
 **Twitter** | [twitter.com/shaunjanssens](https://twitter.com/shaunjanssens)
+
 **LinkedIn** | [linkedin.com/in/shaunjanssens](https://be.linkedin.com/in/shaunjanssens)
